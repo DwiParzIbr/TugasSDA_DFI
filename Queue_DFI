@@ -2,7 +2,6 @@
 //G1A021092
 
 #include <iostream>
-#include <conio.h>
 #define MAX 8
 
 using namespace std;
@@ -81,5 +80,6 @@ int main(){
     Tampil();
     cout<<"\nElemen yang keluar : "<<Dequeue();
     Tampil();
-    getch;
+    
 }
+
